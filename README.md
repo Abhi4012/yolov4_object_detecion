@@ -41,6 +41,7 @@
 
 ## some potential challanges are there
  - First i was trying to do these task on jupyter notebook and VSCODE but my pc is not compatible so i use google colab.
+ - It is possible that it may not be able to detect well on some images.
 
 
 ## What technologies would you use and why?
